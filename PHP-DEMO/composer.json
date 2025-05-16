@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "cocur/slugify": "^4.6",
+        "fakerphp/faker": "^1.24"
+    }
+}
